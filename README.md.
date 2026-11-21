@@ -1,0 +1,14 @@
+# Fraud Detection Using PyOD AutoEncoder
+
+This project demonstrates unsupervised anomaly detection
+using the PyOD AutoEncoder algorithm.
+
+## Technologies
+- Python
+- PyOD
+- Pandas
+- Scikit-learn
+- PyTorch
+
+## Algorithm
+AutoEncoder
